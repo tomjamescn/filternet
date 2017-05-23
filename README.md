@@ -1,3 +1,14 @@
+> The origin package is not work under bufferjs 2.0
+> 
+> This fork fix it
+> 
+
+# Install
+```sh
+npm install --save tomjamescn/filternet
+```
+
+
 [![build status](https://secure.travis-ci.org/axiak/filternet.png)](http://travis-ci.org/axiak/filternet)
 # filternet - A simple way to filter http in node.js
 
