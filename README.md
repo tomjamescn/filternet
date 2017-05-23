@@ -5,7 +5,7 @@
 
 # Install
 ```sh
-npm install --save tomjamescn/filternet
+npm install --save https://github.com/tomjamescn/filternet
 ```
 
 
